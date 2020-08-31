@@ -2,7 +2,7 @@ name: H.P.C.D
 description: A high powered compact drill.
 type: Drill
 size: 1
-tier: 5
+tier: 10
 drillTime: 0
 requirements: [
   copper/80
