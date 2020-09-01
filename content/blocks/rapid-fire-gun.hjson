@@ -11,7 +11,7 @@ rotatespeed: 12
 ammo: {
   copper: {
    type: LiquidBulletType
-   damage: 10
+   damage: 50
   }
 }
 requirements: [
