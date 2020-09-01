@@ -10,7 +10,7 @@ inaccuracy: 1
 rotatespeed: 12
 ammo: {
   copper: {
-   type: MissileBulletType
+   type: standardCopper
    damage: 50
   }
 }
