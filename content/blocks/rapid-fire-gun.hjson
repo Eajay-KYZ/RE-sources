@@ -9,8 +9,7 @@ ammoUseEffect: shellEjectSmall
 inaccuracy: 1
 rotatespeed: 12
 ammo: {
-  copper: {
-   type: standardCopper
+  copper: standardCopper {
    damage: 50
   }
 }
