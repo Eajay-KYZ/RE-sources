@@ -1,4 +1,4 @@
-type: Turret
+type: ItemTurret
 name: R.F.G
 description: Turret goes PEW PEW
 health: 500
@@ -8,6 +8,9 @@ range: 200
 ammoUseEffect: shellEjectSmall
 inaccuracy: 1
 rotatespeed: 12
+ammo: {
+  copper: standardCopper
+}
 requirements: [
   copper/20
 ]
