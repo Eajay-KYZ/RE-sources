@@ -9,7 +9,11 @@ ammoUseEffect: shellEjectSmall
 inaccuracy: 1
 rotatespeed: 12
 ammo: {
-  copper: standardCopper
+  copper: {
+   damage: 10
+   bulletWidth: 1
+   bulletHeight: 1
+  }
 }
 requirements: [
   copper/20
