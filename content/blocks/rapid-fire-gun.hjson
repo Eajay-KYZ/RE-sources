@@ -9,8 +9,10 @@ ammoUseEffect: shellEjectSmall
 inaccuracy: 1
 rotatespeed: 12
 ammo: {
-  copper: standardCopper {
-   damage: 50
+  copper: {
+    type: MissileBulletType
+    lifetime: 1000
+    damage: 50
   }
 }
 requirements: [
