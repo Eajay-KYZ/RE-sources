@@ -1,0 +1,15 @@
+type: Turret
+name: R.F.D
+description: Turret goes PEW PEW
+health: 500
+size: 1
+reload: 0
+range: 200
+ammoUseEffect: shellEjectSmall
+inaccuracy: 0
+rotatespeed: 12
+requirements: [
+  copper/20
+]
+category: turret
+research: duo
