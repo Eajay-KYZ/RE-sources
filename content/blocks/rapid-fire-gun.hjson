@@ -10,6 +10,7 @@ inaccuracy: 1
 rotatespeed: 12
 ammo: {
   copper: {
+   type: LiquidBulletType
    damage: 10
    bulletWidth: 1
    bulletHeight: 1
