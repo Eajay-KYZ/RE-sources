@@ -3,10 +3,10 @@ name: R.F.G
 description: Turret goes PEW PEW
 health: 500
 size: 1
-reload: 0
+reload: 1
 range: 200
 ammoUseEffect: shellEjectSmall
-inaccuracy: 0
+inaccuracy: 1
 rotatespeed: 12
 requirements: [
   copper/20
