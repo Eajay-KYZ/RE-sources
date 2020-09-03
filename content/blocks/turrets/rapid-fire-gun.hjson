@@ -4,10 +4,10 @@ description: Turret goes PEW PEW
 health: 500
 size: 1
 reload: 1
-range: 200
+range: 2000
 ammoUseEffect: shellEjectSmall
 inaccuracy: 360
-rotatespeed: 0
+rotatespeed: 10
 ammo: {
   copper: {
     type: MissileBulletType
