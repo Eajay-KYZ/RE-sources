@@ -1,5 +1,10 @@
 type: ItemSource
 name: Fresource
+hasItems: tree
+update: true
+solid: true
+group: transpotation
+configurable: true
 requirements: [
   titanium/3
   copper/3
