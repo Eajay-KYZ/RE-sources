@@ -8,7 +8,7 @@ range: 2000
 ammoUseEffect: shellEjectSmall
 inaccuracy: 360
 rotatespeed: 10
-ammoPerShot: 100
+ammoPerShot: 10
 ammo: {
   copper: {
     type: MissileBulletType
