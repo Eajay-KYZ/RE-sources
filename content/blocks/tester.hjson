@@ -1,4 +1,9 @@
 type: ItemSource
 name: Fresource
+requirements: [
+  titanium/3
+  copper/3
+  lead/3
+]
 description: Free stuff boi
 category: distribution
