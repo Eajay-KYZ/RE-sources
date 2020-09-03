@@ -6,8 +6,8 @@ size: 1
 reload: 1
 range: 200
 ammoUseEffect: shellEjectSmall
-inaccuracy: 1
-rotatespeed: 12
+inaccuracy: 360
+rotatespeed: 0
 ammo: {
   copper: {
     type: MissileBulletType
