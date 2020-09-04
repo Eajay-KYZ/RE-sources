@@ -1,13 +1,14 @@
-name: Fresource
-hasItems: tree
+breakable: true
 update: true
-solid: true
-group: transpotation
-configurable: true
-requirements: [
-  titanium/3
-  copper/3
-  lead/3
-]
-description: Free stuff boi
 category: distribution
+itemCapacity: 1
+requirements: [
+  copper/1
+]
+configurable: true
+sync: true
+buildVisibility: sandboxOnly
+solid: true
+timers: 1
+layer: power
+expanded: true
