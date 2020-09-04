@@ -6,7 +6,7 @@ size: 1
 reload: 1
 range: 2000
 ammoUseEffect: shellEjectSmall
-inaccuracy: 360
+inaccuracy: 1
 rotatespeed: 10
 ammoPerShot: 1
 ammo: {
