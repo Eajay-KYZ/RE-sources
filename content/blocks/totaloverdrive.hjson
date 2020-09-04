@@ -1,0 +1,13 @@
+type: OverdriveProjector
+name: Total Overclock
+size: 2
+range: 200
+speedBoost: 5
+speedBoostPhase: 0.75
+useTime: 400
+requirements: [
+  copper/80
+  lead/80
+]
+category: effect
+research: mechanical-drill
